@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏻, नमस्ते 🙏🏻, I'm Mridul Rawat.</h1>
-<h3 align="center">AWS | DevOps Engineer | Cloud Architect</h3>
+<h1 align="center">Hi 👋🏻, Hello 🙋🏻‍♂️, नमस्ते 🙏🏻, I'm Mridul Rawat.</h1>
+<h3 align="center">AWS | DevOps Engineer | Cloud Architect </h3>
 
 <p align="left">
   <img
@@ -19,15 +19,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrid01&theme=monokai&margin-w=25&title=Repositories,Commits,Followers,Stars,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🧑🏻‍💻🖱️I specialize in AWS cloud services and DevOps practices, I possess a wide range of skills that include Docker, Kubernetes, Jenkins, Ansible, Terraform, 
-       Grafana, Git, GitHub, and Linux.
+- 🧑🏻‍💻🖱️I specialize in AWS cloud services and DevOps practices, and I possess a wide range of skills that include Docker, Kubernetes, Jenkins, Ansible, Terraform, Grafana, Git, GitHub, and Linux.
 - 🖥️🕸️I am familiar with web-development technologies such as MERN Stack, Tailwind CSS, and Figma.
 - 🔏📝My proficiency in these tools and technologies allows me to design, deploy, and manage cloud-based solutions with ease.
 - 🏡💻You can visit my personal portfolio website to see my projects and blogs. [http://cloudmridul.site/](http://cloudmridul.site/)
 - 📫🕵🏻‍♂️ How to reach me
 **mridulrawat98@gmail.com**
 - ⚡🤸🏻‍♂️ Fun fact **I'll become a DevOps pro
-by the time Luffy finds the One Piece XD.**
+by the time Luffy finds One Piece XD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
