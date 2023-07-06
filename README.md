@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, Hello 🙋🏻‍♂️, नमस्ते 🙏🏻, I'm Mridul Rawat.</h1>
+<h1 align="center">Hi 🙋🏻‍♂️, Hello 👋🏻, नमस्ते 🙏🏻, I'm Mridul Rawat.</h1>
 <h3 align="center">AWS | DevOps Engineer | Cloud Architect </h3>
 
 <p align="left">
