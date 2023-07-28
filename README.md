@@ -1,13 +1,16 @@
-<h1 align="center">Hi 🙋🏻‍♂️, Hello 👋🏻, नमस्ते 🙏🏻, I'm Mridul Rawat.</h1>
+[![MasterHead](https://cdn.dribbble.com/userupload/8901167/file/original-3fb8edb5ff82d6102464a32841231516.gif)](https://cloudmridul.site)
+
+<h1 align="center">Hi! I'm Mridul 🙋🏻‍♂️</h1>
 <h3 align="center">AWS | DevOps Engineer | Cloud Architect </h3>
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Mridul Rawat](https://www.linkedin.com/in/mridul-rawat/)   
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=mrid01&label=Profile%20views&color=0e75b6&style=flat"
     alt="mrid01"
   />
 </p>
-
+         
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -54,88 +57,88 @@ by the time Luffy finds One Piece XD.**
     <img
       src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
       alt="aws"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://docker.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"
       alt="docker"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://kubernetes.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
       alt="kubernetes"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://linux.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
       alt="linux"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://ansible.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
       alt="ansible"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://jenkins.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
       alt="jenkins"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://nodejs.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="nodejs"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://mongodb.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
       alt="mongodb"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://grafana.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
       alt="grafana"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
 </p>
